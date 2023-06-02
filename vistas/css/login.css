@@ -1,0 +1,189 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color:  #d9e0e4;
+}
+
+.box{
+    position: relative;
+    width: 380px;
+    height: 642px;
+    background: #1356c9f6; 
+    border-radius: 10px;
+    overflow: hidden;
+    /*right: -500px;*/
+}
+ 
+.box::before{
+  content : '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 380px;
+  height: 642px;
+  background: linear-gradient(0deg, transparent, #45f3ff,#45f3ff);
+  transform-origin: bottom right;
+  animation: animate 7s linear infinite;
+  animation-delay: -3s;  
+  
+}
+
+.box:after{
+  content : '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 380px;
+  height: 642px;
+  background: linear-gradient(0deg, transparent, #45f3ff,#45f3ff);
+  transform-origin: bottom right;
+  animation: animate 7s linear infinite;
+}
+
+@keyframes animate{
+    0%
+    {
+      transform: rotate(0deg);
+    }100%{
+      transform: rotate(360deg);
+    }
+}
+.toggle-password {
+  position: absolute;
+  display: none;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  color: #1D3A67;
+  cursor: pointer;
+}
+
+.form-container{
+  position: relative;
+  inset: 5px;
+  border-radius: 10px;
+  background: #9AD0EC; 
+  color: #111111;
+  z-index: 50;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;  
+  padding: 40px 30px
+} 
+
+.group-material-login{ 
+    position:relative; 
+    margin-bottom:25px; 
+}
+.material-login-control,
+.material-control-login{
+  background-color: transparent;
+  font-size:17px;
+  padding:10px 10px 10px 5px;
+  border-radius: 7px;
+  display:block;
+  width:100%;
+  border:none;
+  border-bottom:1px solid #0656f69b;
+  outline:none;
+}
+.material-login-control:focus{ outline:none; }/* User, Password*/
+.group-material-login label{
+  color:#1D3A67; 
+  font-size:17px;
+  font-weight:normal;
+  font-family: 'Arial';
+  position:absolute;
+  pointer-events:none;
+  left:5px;
+  top:10px;
+  transition:all 0.2s ease; 
+  -moz-transition:all 0.2s ease; 
+  -webkit-transition:all 0.2s ease;
+}
+/* Estado activo */
+input.material-login-control:focus:valid ~ label,
+input.material-login-control:valid ~ label{
+  top:-18px;
+  font-size:13px;
+  color:#1D3A67;
+}
+input.material-login-control:focus:invalid:required,
+input.material-login-control:invalid:required{
+  outline: none;
+  box-shadow: none;
+}
+/*Barra de formularios material desing ================*/
+.bar-login{ position:relative; display:block; width:100%; }
+.bar-login:before, .bar-login:after     {
+  content:'';
+  height:2px; 
+  width:0;
+  bottom:1px; 
+  position:absolute;
+  background:#1D3A67; 
+  transition:all 0.2s ease; 
+  -moz-transition:all 0.2s ease; 
+  -webkit-transition:all 0.2s ease;
+}
+.bar-login:before { left:50%; }
+.bar-login:after { right:50%; }
+input.material-login-control:focus ~ .bar-login:before, input.material-login-control:focus ~ .bar-login:after {
+  width:50%;
+}
+.btn-login{
+  background-image: linear-gradient(to right, #1356c9f6, #1356c9f6);
+    text-align: center;
+    border: none;
+    box-shadow: none;
+    border-radius: 25px;
+    font-size: 20px;
+    line-height: 19px;
+    color: #edf1f2;
+    padding: 0;
+    outline: none;
+    border: none;
+    width: 100%;
+    height: 50px;
+    bottom: 3%;
+    right: 37%;
+}
+.btn-login:hover{
+    border: none;
+    box-shadow: none;
+}
+.btn-login:focus,
+.btn-login:active{
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+label{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+.radio-inline label:hover{
+    cursor: pointer;
+}
+select.material-control-login{
+    background: #444F55 url(../assets/icons/SelectMaterialIndicator-white.png) no-repeat scroll right 0.75rem center / 13px 8px;
+}
+select.material-control-login:hover{
+    cursor: pointer;
+}
+
+
+.swal-overlay {
+  background-color: rgba(43, 165, 137, 0.45);
+}
+
+.swal-modal {
+  background-color: rgba(245, 241, 241, 0.95);
+  /* background-color: rgba(143, 168, 149, 0.99); */
+  /* background-color: rgba(60, 141, 188,0.90); */
+  
+}
+

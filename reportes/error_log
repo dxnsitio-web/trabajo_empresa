@@ -1,0 +1,30 @@
+[24-Jun-2018 18:46:11 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/boletae.php on line 224
+[24-Jun-2018 18:46:11 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/boletae.php on line 234
+[24-Jun-2018 18:46:11 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/boletae.php on line 235
+[26-Jun-2018 10:00:28 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/boletae.php on line 224
+[26-Jun-2018 10:00:28 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/boletae.php on line 234
+[26-Jun-2018 10:00:28 Etc/GMT] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/boletae.php on line 235
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 70
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 71
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 77
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 78
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 80
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 84
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 85
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 86
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 87
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 88
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 89
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 90
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 90
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 93
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 94
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 95
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 96
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 97
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 98
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 99
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Undefined variable: codigotipo_comprobante in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 151
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 263
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 298
+[01-Oct-2018 20:28:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/ravixcom/public_html/soluciones/sistemas/gamersvs/reportes/ticket2.php on line 307

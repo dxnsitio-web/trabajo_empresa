@@ -1,0 +1,25 @@
+.backColor{
+	background: #3c8dbc;
+	color: white;
+}
+
+.headerColor{
+	background: #3c8dbc;
+	color: white;
+}
+
+#tbllistado tbody tr:hover{
+	background: #3C8DBC;
+	color:white;
+	/* border-style: none; */
+	/* background:rgb(131, 188, 235); */
+	/* border:3px solid rgb(131, 188, 235); */
+	/* margin:10px; */
+	/* padding:10px; */
+
+}
+
+/*.backColor button.close{
+	margin-left:15px;
+	margin-bottom: 35px; 
+}*/
